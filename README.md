@@ -33,47 +33,11 @@ A full-stack web application to track your personal and business expenses. Built
 
 ---
 
-# 💰 Smart Expense Tracker (MERN)
-
-A full-stack web application to track your personal and business expenses. Built using the MERN stack (MongoDB, Express.js, React, Node.js), the app allows users to securely log in, add/edit/delete expenses, and view categorized and filtered transaction histories.
-
----
-
-## 🚀 Features
-
-- 🔐 User Authentication (JWT-based, secured)
-- ➕ Add, Edit, and Delete transactions
-- 📅 Filter transactions by **Type** and **Date Range**
-- 📊 Categorize transactions (e.g., Food, Travel, Bills, etc.)
-- 📁 Local MongoDB integration
-- 🧠 Clean React Context API for global state management
-- 🌙 Dark-themed modern UI (navy blue base)
-- 📈 Analytics dashboard (coming soon)
-
----
-
 ## 📷 Screenshots
 
 | Signup Page | Dashboard |
 |-------------|-----------|
 | ![Signup](screens/signup.png) | ![Dashboard](screens/dashboard.png) |
-
----
-
-## 🛠️ Tech Stack
-
-**Frontend**
-- React + Vite
-- CSS (Dark Theme)
-- Axios
-- React Router DOM
-
-**Backend**
-- Express.js
-- MongoDB (local)
-- Mongoose
-- JWT + bcrypt
-- dotenv + nodemon
 
 ---
 
